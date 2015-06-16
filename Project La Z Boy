@@ -1,0 +1,46 @@
+We will be merging multiple classes together in a central Java file called "Student Data.java"
+
+These are the different classes that each individual will be in charge of:
+
+Student(stores information about student)- Sam:
+·      Str name
+·      Str ID
+·      Char Gender
+·      Date of birth
+·      Enum Major
+·      Enum Minor
+·      Course manager-courses
+·      Double GPA
+int year in school
+
+Grade scale(christian):
+figuring out the differences between grades
+
+Course Manager(magus):
+courseList[]
+add()
+remove()
+replace()
+search()
+isEmpty()
+
+Course(patrick):
+title
+professor
+time(start date and end date)
+section
+credit hours
+assignment[]
+days
+location(building and room number)
+grade
+
+assignments(ryan):
+name
+category
+description 
+grade
+setter/getter
+
+StudentData:
+combination of the classes
